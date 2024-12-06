@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args){
-        System.out.println("Открытие через 2 месяца");
+        System.out.println("Открытие через 4 дня");
     }
 }
